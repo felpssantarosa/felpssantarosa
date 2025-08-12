@@ -1,5 +1,3 @@
-# Hi, I'm Felipe
-
 Software engineer from Brazil who loves open source.
 
 <br/>
@@ -47,7 +45,7 @@ They are projects that I believe in.
 
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=HiImFelipe&show_icons=true&theme=radical" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=felpssantarosa&show_icons=true&theme=radical" />
 </p>
 
 <p align=right>
@@ -60,7 +58,7 @@ They are projects that I believe in.
 <br/>
 <br/>
 
-<img align=right width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiImFelipe&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
+<img align=right width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssantarosa&show_icons=true&theme=radical&exclude_repo=TextRPG-C" />
 
 #### 📖 Currently learning
 
