@@ -1,4 +1,10 @@
-Software engineer from Brazil who loves open source.
+<p align=center>Software engineer from Brazil who loves open source.</p>
+
+<br/>
+
+<p align=center>
+  <img width="1200" height="630" alt="social-card" src="https://github.com/user-attachments/assets/fb0e47bd-e68a-4c59-bc59-fa5ac589e523" />
+</p>
 
 <br/>
 
