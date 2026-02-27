@@ -96,14 +96,33 @@ Passionate about open source, clean architecture, and building things that matte
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpssantarosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssantarosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&exclude_repo=TextRPG-C" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felpssantarosa&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felpssantarosa&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felpssantarosa&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felpssantarosa&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felpssantarosa&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=felpssantarosa&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=C9D1D9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felpssantarosa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&area_color=70A5FD" />
 </div>
 
 <p align="right">
